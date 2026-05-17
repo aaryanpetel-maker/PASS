@@ -40,7 +40,7 @@ SUPPORT_BOT = "https://t.me/Aaryansupportby_bot"
 
 # 🗄️ --- SUPABASE CLOUD DATABASE CONFIG --- 🗄️
 # Replace with your transaction connection string (Pooler URI, Port 6543)
-DB_URI = "postgresql://postgres:A@#ryan11j%n@db.gjaawgvgtktjvfdgmtlg.supabase.co:5432/postgres
+DB_URI = "postgresql://postgres:Rqz8mvHnGVRaCrsO@db.kljezexcqnnctttlblgd.supabase.co:5432/postgres"
 
 bot = telebot.TeleBot(TOKEN)
 recon_session = requests.Session()
