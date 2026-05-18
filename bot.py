@@ -34,13 +34,13 @@ def start_keep_alive():
     t.start()
 
 # ⚙️ --- CORE CONFIG --- ⚙️
-TOKEN = "8850295976:AAGloIkqGvLcfduG4Tr4SDcE3lmLT1JrN9k"  # Replace with your Telegram Bot Token
-ADMIN_ID = 7002290873           # Replace with your Telegram User ID
+TOKEN = "8482353404:AAEzjIIQ8zCDAnwpu_AlHztb-joLhtMo8FM"  # Replace with your Telegram Bot Token
+ADMIN_ID = 6431652606           # Replace with your Telegram User ID
 SUPPORT_BOT = "https://t.me/Aaryansupportby_bot"
 
 # 🗄️ --- SUPABASE CLOUD DATABASE CONFIG --- 🗄️
 # Replace with your transaction connection string (Pooler URI, Port 6543)
-DB_URI = "postgresql://postgres:Rqz8mvHnGVRaCrsO@db.kljezexcqnnctttlblgd.supabase.co:5432/postgres"
+DB_URI = "postgresql://postgres.fwctqqzsytswydguiuzg:vDeortGQ$h1DBJuQgB4&@aws-1-ap-south-1.pooler.supabase.com:6543/postgres"
 
 bot = telebot.TeleBot(TOKEN)
 recon_session = requests.Session()
