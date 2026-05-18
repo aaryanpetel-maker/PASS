@@ -34,8 +34,8 @@ def start_keep_alive():
     t.start()
 
 # ⚙️ --- CORE CONFIG --- ⚙️
-TOKEN = "8482353404:AAEzjIIQ8zCDAnwpu_AlHztb-joLhtMo8FM"
-ADMIN_ID = 6431652606       
+TOKEN = "8876139863:AAEI29jQt7OYm9CHmi0NQp-YNtgVdn4NRmM"
+ADMIN_ID = 7387429271       
 SUPPORT_BOT = "https://t.me/Aaryansupportby_bot"
 
 # 🗄️ --- SUPABASE CLOUD DATABASE CONFIG --- 🗄️
