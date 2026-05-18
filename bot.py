@@ -34,12 +34,12 @@ def start_keep_alive():
     t.start()
 
 # ⚙️ --- CORE CONFIG --- ⚙️
-TOKEN = "8850295976:AAGloIkqGvLcfduG4Tr4SDcE3lmLT1JrN9k"
-ADMIN_ID = 7002290873       
+TOKEN = "8482353404:AAEzjIIQ8zCDAnwpu_AlHztb-joLhtMo8FM"
+ADMIN_ID = 6431652606       
 SUPPORT_BOT = "https://t.me/Aaryansupportby_bot"
 
 # 🗄️ --- SUPABASE CLOUD DATABASE CONFIG --- 🗄️
-DB_URI = "postgresql://postgres:Rqz8mvHnGVRaCrsO@db.kljezexcqnnctttlblgd.supabase.co:5432/postgres"
+DB_URI = "postgresql://postgres.fwctqqzsytswydguiuzg:vDeortGQ$h1DBJuQgB4&@aws-1-ap-south-1.pooler.supabase.com:6543/postgres"
 
 bot = telebot.TeleBot(TOKEN)
 recon_session = requests.Session()
